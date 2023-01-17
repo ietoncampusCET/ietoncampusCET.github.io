@@ -51,7 +51,7 @@ export const members22 = [
   },
   {
     position: "Joint Treasurer",
-    name: "Javeed Ahmed",
+    name: "Javeed Ahmad",
     img: "Photo_Execom_2022_2023/JointTreasurer.jpg",
   },
   {
