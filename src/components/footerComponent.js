@@ -32,7 +32,14 @@ function Footer(){
                 <p>College of Engineering, Trivandrum</p>
             </div>
             <div className="d-flex justify-content-center" id="footnote">
-                <p>Developed by Sheen Xavier A</p>
+                <p>Developed by Sheen Xavier A </p>
+                
+              
+            </div>
+            <div className="d-flex justify-content-center" id="footnote">
+            <p>Maintained by Web Team IET on Campus CET</p>
+                
+              
             </div>
         </Container>
     </div>
