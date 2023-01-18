@@ -31,7 +31,7 @@ export const members22 = [
   },
   {
     position: "Technical head",
-    name: "Anantha Krishnan",
+    name: "Ananthakrishnan R J",
     img: "Photo_Execom_2022_2023/TechnicalHead2.jpg",
   },
   {
