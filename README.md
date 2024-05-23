@@ -24,3 +24,4 @@ or you can access the server through using a remote server client like VS Code r
 
 `CAUTION : THE SERVER IS SHARED BY DIFFERENT WEBSITES, BE CAREFULL WHEN UPDATING THE FILES `
 
+~ for username, password and ip address contact previous website managers 
